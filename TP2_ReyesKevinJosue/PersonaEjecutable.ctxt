@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PersonaEjecutable
+comment0.text=\r\n\ La\ clase\ PersonaEjecutable\ prueba\ la\ funcionalidad\ de\ la\ clase\ Persona.\r\n\ \r\n\ Se\ crean\ varias\ instancias\ de\ Persona\ con\ datos\ constantes,\r\n\ y\ se\ muestran\ en\ consola\ distintos\ formatos\ de\ salida.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal.\ \r\n\ Construye\ objetos\ de\ tipo\ Persona,\ prueba\ sus\ metodos\ e\ imprime\ los\ resultados\ en\ consola.\r\n
+numComments=2

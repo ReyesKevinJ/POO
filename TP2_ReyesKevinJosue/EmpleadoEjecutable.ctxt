@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EmpleadoEjecutable
+comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ crear\ y\ mostrar\ empleados\ por\ consola.\r\n\ <p>Esta\ clase\ utiliza\ la\ clase\ Empleado\ para\ instanciar\ objetos\r\n\ empleados\ con\ datos\ ingresados\ por\ teclado\ y\ mostrar\ su\ informaci\u00F3n\ en\ pantalla.</p>\r\n\ \r\n\ <p>Funcionalidad\:\r\n\ \ \ \ \ <li>Cargar\ datos\ de\ dos\ empleados\ mediante\ ingreso\ por\ teclado.</li>\r\n\ \ \ \ \ <li>Mostrar\ los\ datos\ de\ cada\ empleado\ en\ pantalla.</li>\r\n\ \ \ \ \ <li>Permitir\ visualizar\ una\ linea\ resumen\ de\ un\ empleado.</li>\r\n\ </ul>\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metodo\ principal\ que\ se\ ejecuta\ al\ iniciar\ la\ aplicaci\u00F3n.\r\n\ <p>Se\ encarga\ de\ crear\ dos\ empleados\ llamando\ al\ metodo\ crearEmpleado(Scanner)\r\n\ y\ mostrar\ su\ informaci\u00F3n.</p>\r\n\ \r\n\ @param\ args\ argumentos\ pasados\ por\ teclado.\r\n
+comment2.params=p_lector
+comment2.target=Empleado\ crearEmpleado(java.util.Scanner)
+comment2.text=\r\n\ Metodo\ auxiliar\ que\ crea\ un\ objeto\ Empleado\ solicitando\ los\ datos\ por\ teclado.\r\n\ \r\n\ @param\ p_lector\ un\ objeto\ Scanner\ para\ leer\ la\ entrada\ del\ usuario\r\n\ @return\ un\ nuevo\ objeto\ Empleado\ con\ los\ datos\ ingresados\r\n
+numComments=3
