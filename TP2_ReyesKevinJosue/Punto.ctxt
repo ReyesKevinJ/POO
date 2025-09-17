@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ La\ clase\ Punto\ representa\ un\ punto\ en\ el\ plano\ cartesiano\ bidimensional.\r\n\ Posee\ dos\ coordenadas\:\ X\ (abscisa)\ e\ Y\ (ordenada).\r\n\ \r\n\ Permite\ inicializar\ el\ punto\ en\ el\ origen\ o\ en\ una\ posicion\ especifica,\ asi\ como\ m\u00E9todos\ para\ desplazar\ el\ punto,\ \r\n\ obtener\ sus\ coordenadas\ en\ formato\ texto\ y\ mostrar\ sus\ valores.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Punto()
+comment1.text=\r\n\ Constructor\ por\ defecto.\ \r\n\ Inicializa\ el\ punto\ en\ el\ origen\ (0,0).\r\n
+comment2.params=p_x\ p_y
+comment2.target=Punto(double,\ double)
+comment2.text=\r\n\ Constructor\ con\ parametros.\ \r\n\ Inicializa\ el\ punto\ en\ las\ coordenadas\ especificadas.\r\n\ \r\n\ @param\ x\ Abscisa\r\n\ @param\ y\ Ordenada\r\n
+comment3.params=p_x
+comment3.target=void\ setX(double)
+comment4.params=p_y
+comment4.target=void\ setY(double)
+comment5.params=
+comment5.target=double\ getX()
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=p_dx\ p_dy
+comment7.target=void\ desplazar(double,\ double)
+comment7.text=\r\n\ Desplaza\ el\ punto\ a\ una\ nueva\ posicion\ sumando\r\n\ los\ valores\ dx\ y\ dy\ a\ las\ coordenadas\ actuales.\r\n\ \r\n\ @param\ dx\ desplazamiento\ en\ X\r\n\ @param\ dy\ desplazamiento\ en\ Y\r\n
+comment8.params=
+comment8.target=void\ mostrar()
+comment8.text=\r\n\ Muestra\ en\ consola\ la\ representaci\u00F3n\ del\ punto.\r\n\ Formato\:\ Punto.\ X\:\ valor,\ Y\:\ valor\r\n
+comment9.params=
+comment9.target=java.lang.String\ coordenadas()
+comment9.text=\r\n\ Retorna\ una\ cadena\ con\ las\ coordenadas\ en\ formato\ (x,\ y).\r\n\ \r\n\ @return\ coordenadas\ como\ texto\r\n
+numComments=10

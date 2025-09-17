@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ClienteEjecutable
+comment0.text=\r\n\ Clase\ ejecutable\ que\ prueba\ la\ funcionalidad\ de\ la\ clase\ Cliente.\r\n\ <p>\r\n\ Esta\ clase\ crea\ un\ objeto\ Cliente\ tomando\ los\ datos\ desde\ los\ argumentos\ del\ metodo\ main,\ muestra\ su\ informaci\u00F3n,\ realiza\ un\ deposito\ agregando\r\n\ saldo\ y\ simula\ una\ extracci\u00F3n\ reduciendo\ el\ saldo\ actual.\r\n\ \r\n\ <p>\r\n\ Los\ argumentos\ que\ se\ deben\ pasar\ al\ ejecutar\ la\ clase\ son\:\r\n\ <ol>\r\n\ \ \ <li>args[0]\ -\ n\u00FAmero\ de\ DNI\ del\ cliente\ (int)</li>\r\n\ \ \ <li>args[1]\ -\ apellido\ del\ cliente\ (String)</li>\r\n\ \ \ <li>args[2]\ -\ nombre\ del\ cliente\ (String)</li>\r\n\ \ \ <li>args[3]\ -\ saldo\ inicial\ del\ cliente\ (double)</li>\r\n\ </ol>\r\n\ </p>\r\n\ <p>\r\n\ El\ programa\ luego\ realiza\ un\ dep\u00F3sito\ fijo\ y\ una\ extracci\u00F3n\ simulada\ mostrando\ los\ saldos\ antes\ y\ despu\u00E9s\ de\ cada\ operaci\u00F3n.\r\n\ </p>\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ la\ prueba\ de\ la\ clase\ Cliente.\r\n\ <p>\r\n\ Crea\ un\ cliente\ a\ partir\ de\ los\ argumentos\ recibidos,\ muestra\ sus\ datos,\ agrega\ saldo\ mediante\ el\ m\u00E9todo\ agregaSaldo\ y\ realiza\ una\ extracci\u00F3n\r\n\ mediante\ el\ m\u00E9todo\ nuevoSaldo,\ mostrando\ los\ resultados\ en\ pantalla.\r\n
+numComments=2

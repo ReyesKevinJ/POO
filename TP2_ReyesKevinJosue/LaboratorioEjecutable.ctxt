@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LaboratorioEjecutable
+comment0.text=\r\n\ La\ clase\ LaboratorioEjecutable\ prueba\ la\ funcionalidad\ de\ la\ clase\ Laboratorio.\r\n\ \r\n\ Se\ pueden\ crear\ varios\ objetos\ Laboratorio\ con\ diferentes\ constructores,\r\n\ se\ actualizan\ sus\ valores\ y\ se\ muestran\ los\ resultados\ por\ consola.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal.\ \r\n\ Prueba\ los\ constructores,\ setters\ y\ metodos\ de\ la\ clase\ Laboratorio.\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AlumnoEjecutable
+comment0.text=\r\n\ La\ clase\ AlumnoEjecutable\ prueba\ la\ clase\ Alumno\ creando\ varios\ objetos\r\n\ con\ datos\ constantes.\ Se\ muestran\ los\ resultados\ de\ promedio,\ aprobaci\u00F3n\r\n\ y\ leyenda\ de\ cada\ alumno.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
