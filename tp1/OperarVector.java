@@ -1,11 +1,11 @@
-
+import java.util.Scanner; 
 /**
  * Write a description of class OperarVector here.
  * 
- * @author (your name) 
+ * @author (Torres Jemina Cesia - Reyes Kevin Josue)  
  * @version (a version number or a date)
  */
-import java.util.Scanner; 
+
 public class OperarVector
 {
     public static void main(String args[]){

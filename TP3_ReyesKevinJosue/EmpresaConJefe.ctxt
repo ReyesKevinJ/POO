@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EmpresaConJefe
+comment0.text=\r\n\ Ejecutable\ para\ trabajar\ con\ EmpleadoConJefe.\r\n\ Permite\ ingresar\ empleados,\ mostrar\ su\ informaci\u00F3n,\ verificar\ aniversario\r\n\ y\ emitir\ un\ permiso\ de\ salida\ firmado\ por\ el\ jefe.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=lector\ jefe
+comment2.target=EmpleadoConJefe\ crearEmpleadoConJefe(java.util.Scanner,\ EmpleadoConJefe)
+comment3.params=p_empleado
+comment3.target=void\ emitirPermisoSalida(EmpleadoConJefe)
+numComments=4

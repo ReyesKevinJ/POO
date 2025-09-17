@@ -2,7 +2,7 @@
 /**
  * Write a description of class Circunferencia here.
  * 
- * @author (your name) 
+ * @author (Torres Jemina Cesia - Reyes Kevin Josue)  
  * @version (a version number or a date)
  */
 public class Circunferencia

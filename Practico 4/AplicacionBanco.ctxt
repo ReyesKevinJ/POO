@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=AplicacionBanco
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AplicacionBanco\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p_lector
+comment2.target=Empleado\ crearEmpleado(java.util.Scanner)
+comment3.params=p_lector
+comment3.target=Localidad\ crearLocalidad(java.util.Scanner)
+comment4.params=p_lector\ p_banco
+comment4.target=Empleado\ elegirEmpleado(java.util.Scanner,\ Banco)
+comment5.params=p_lector\ p_empleado\ p_localidad
+comment5.target=Banco\ crearBanco(java.util.Scanner,\ Empleado,\ Localidad)
+comment6.params=p_lector
+comment6.target=CuentaBancaria\ crearCuenta(java.util.Scanner)
+comment7.params=p_lector\ p_banco
+comment7.target=CuentaBancaria\ elegirCuenta(java.util.Scanner,\ Banco)
+numComments=8

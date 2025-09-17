@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CreaFigura
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CrarFigura\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=double\ numeroRandom()
+comment3.params=
+comment3.target=void\ probarRectangulo()
+comment4.params=
+comment4.target=void\ probarCirculo()
+comment5.params=p_lector\ p_coordenada
+comment5.target=double\ ingresarCoordenada(java.util.Scanner,\ java.lang.String)
+numComments=6

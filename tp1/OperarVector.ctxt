@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=OperarVector
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OperarVector\ here.\r\n\ \r\n\ @author\ (Torres\ Jemina\ Cesia\ -\ Reyes\ Kevin\ Josue)\ \ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2

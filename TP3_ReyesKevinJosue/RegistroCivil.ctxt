@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RegistroCivil
+comment0.text=\r\n\ Simula\ un\ registro\ civil\ donde\ se\ crean\ hombres\ y\ mujeres,\r\n\ se\ registran\ matrimonios\ y\ divorcios\ mediante\ ingreso\ de\ datos\ por\ teclado.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metodo\ principal\ que\ ejecuta\ la\ simulacion\ de\ crear\ dos\ parejas\r\n\ y\ gestionar\ su\ estado\ civil.\r\n
+comment2.params=p_lector
+comment2.target=Mujer\ crearMujer(java.util.Scanner)
+comment2.text=\r\n\ Crea\ una\ mujer\ solicitando\ datos\ por\ teclado.\r\n\ \r\n\ @param\ p_lector\ objeto\ Scanner\ para\ leer\ datos\ ingresados\r\n\ @return\ una\ nueva\ instancia\ de\ Mujer\r\n
+comment3.params=p_lector
+comment3.target=Hombre\ crearHombre(java.util.Scanner)
+comment3.text=\r\n\ Crea\ un\ hombre\ solicitando\ datos\ por\ teclado.\r\n\ \r\n\ @param\ p_lector\ objeto\ Scanner\ para\ leer\ datos\ ingresados\r\n\ @return\ una\ nueva\ instancia\ de\ Hombre\r\n
+numComments=4

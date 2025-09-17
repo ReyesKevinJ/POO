@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CreaFigura
+comment0.text=\r\n\ Clase\ ejecutable\ que\ crea\ dos\ circulos\ con\ radios\ ingresados\ por\ el\ usuario,\ \r\n\ desplaza\ uno\ de\ ellos,\ y\ muestra\ sus\ caracter\u00EDsticas,\ el\ mayor\ de\ los\ dos\ \r\n\ y\ la\ distancia\ entre\ sus\ centros.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ del\ programa.\r\n
+comment2.params=
+comment2.target=double\ numeroAleatorio()
+comment3.params=p_letra\ p_palabra\ p_lector
+comment3.target=double\ ingresarCoordenadas(java.lang.String,\ java.lang.String,\ java.util.Scanner)
+comment4.params=p_letra\ p_palabra\ p_lector
+comment4.target=double\ ingresarDesplazamiento(java.lang.String,\ java.lang.String,\ java.util.Scanner)
+numComments=5

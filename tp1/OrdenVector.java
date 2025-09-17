@@ -1,14 +1,15 @@
-
+/**
+ * @imports(javaScanner)
+ */
+import java.util.Scanner;
 /**
  * Write a description of class OrdenVector here.
  * 
- * @author (your name) 
+ * @author (Torres Jemina Cesia - Reyes Kevin Josue)  
  * @version (a version number or a date)
  */
-/**
- * @imports(javaScanner)
-*/
-import java.util.Scanner;
+
+
 public class OrdenVector
 {
     public static void main(String args[]){

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ La\ clase\ Localidad\ representa\ a\ una\ region\ dentro\ de\ una\ provincia.\ \r\n\ La\ misma\ cuenta\ con\ un\ nombre\ y\ la\ provincia\ a\ la\ que\ pertenece.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Localidad\ perteneciente\ a\ una\ provincia.\r\n\ \r\n\ @param\r\n\ @param\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Asigna\ p_nombre\ como\ nuevo\ nombre\ de\ la\ localidad.\r\n\ \r\n\ @param\ p_nombre\ \r\n
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment3.text=\r\n\ Asigna\ p_provincia\ como\ la\ provincia\ a\ la\ que\ pertenece\ la\ localidad.\r\n\ \r\n\ @param\ p_provincia\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=\r\n\ Devuelve\ el\ nombre\ de\ la\ localidad.\r\n\ \r\n\ @return\ una\ cadena\ de\ caracteres\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment5.text=\r\n\ Devuelve\ la\ provincia\ a\ la\ que\ pertenece\ la\ localidad.\r\n\ \r\n\ @return\ una\ cadena\ de\ caracteres\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=\r\n\ Muestra\ por\ pantalla\ los\ datos\ de\ la\ localidad.\r\n\ \r\n\ @return\ una\ cadena\ de\ caracteres\r\n
+numComments=7

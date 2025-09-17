@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GestionHospital
+comment0.text=\r\n\ La\ clase\ GestionHospital\ permite\ crear\ un\ hospital\ y\ un\ paciente\r\n\ a\ partir\ de\ datos\ ingresados\ por\ teclado.\ Tambien\ simula\ el\ envio\ de\ los\ datos\ \r\n\ filiatorios\ de\ un\ paciente\ desde\ un\ hospital.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metodo\ principal\ que\ muestra\ un\ menu\ interactivo.\r\n\ Crea\ un\ hospital\ y\ un\ paciente\ con\ datos\ ingresados\ por\ teclado.\ Permite\r\n\ salir\ del\ programa\ mediante\ una\ opcion\ especifica.\r\n
+comment2.params=p_lector
+comment2.target=Paciente\ crearPaciente(java.util.Scanner)
+comment2.text=\r\n\ Crea\ un\ paciente\ con\ sus\ datos\ personales.\r\n\ \r\n\ @param\ p_lector\ \r\n\ @return\ un\ objeto\ de\ tipo\ Paciente\r\n
+comment3.params=p_lector\ p_tipoLocalidad
+comment3.target=Localidad\ crearLocalidad(java.util.Scanner,\ java.lang.String)
+comment3.text=\r\n\ Crea\ y\ devuelve\ una\ localidad\ de\ nacimiento\ o\ residencia.\r\n\ \r\n\ @param\ p_lector\r\n\ @param\ p_tipoLocalidad\ tipo\ de\ localidad\ que\ crea\r\n\ @return\ un\ objeto\ de\ tipo\ Localidad\r\n
+comment4.params=p_lector\ p_paciente
+comment4.target=Hospital\ crearHospital(java.util.Scanner,\ Paciente)
+comment4.text=\r\n\ Crea\ y\ devuelve\ un\ hospital\ con\ nombre,\ director\ y\ paciente.\r\n\ \r\n\ @param\ p_lector\ ingreso\ por\ teclado\r\n\ @param\ p_paciente\ paciente\ del\ hospital\r\n\ @return\ un\ objeto\ de\ tipo\ Hospital\r\n
+comment5.params=p_hospital
+comment5.target=void\ enviarDatosFiliarorios(Hospital)
+comment5.text=\r\n\ Muestra\ por\ pantalla\ la\ simulacion\ de\ un\ envio\ de\ datos\ a\ un\ paciente\r\n\ del\ hospital.\r\n\ \r\n\ @param\ p_hospital\ hospital\ con\ un\ paciente\r\n
+numComments=6

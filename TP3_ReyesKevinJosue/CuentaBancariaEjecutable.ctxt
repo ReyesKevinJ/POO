@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CuentaBancariaEjecutable
+comment0.text=\r\n\ Clase\ ejecutable\ para\ gestionar\ cuentas\ bancarias.\r\n\ Permite\ ingresar\ datos\ de\ personas\ y\ crear\ y\ gestionar\ cuentas\ bancarias.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Controla\ el\ flujo\ del\ programa\:\r\n\ -\ Solicita\ datos\ de\ personas.\r\n\ -\ Crea\ cuentas\ bancarias.\r\n\ -\ Permite\ depositos\ y\ extracciones.\r\n\ -\ Muestra\ los\ datos\ y\ saldos\ actualizados.\r\n
+comment2.params=p_lector
+comment2.target=Persona\ ingrDatosPersona(java.util.Scanner)
+comment2.text=\r\n\ Pide\ los\ datos\ de\ una\ persona\ y\ luego\ devuelve\ el\ objeto\ Persona\r\n\ con\ los\ datos\ cargados.\r\n\ \r\n\ @param\ p_lector\ Scanner\ utilizado\ para\ leer\ desde\ el\ teclado\r\n\ @return\ un\ objeto\ de\ tipo\ Persona\r\n
+comment3.params=p_lector\ p_persona
+comment3.target=CuentaBancaria\ ingrDatosCuenta(java.util.Scanner,\ Persona)
+comment3.text=\r\n\ Pide\ los\ datos\ de\ una\ cuenta\ bancaria\ y\ la\ crea\r\n\ asociandola\ a\ un\ titular\ ya\ existente.\r\n\ Permite\ elegir\ si\ se\ carga\ o\ no\ un\ saldo\ inicial.\r\n\ \r\n\ @param\ p_lector\ Scanner\ utilizado\ para\ leer\ desde\ el\ teclado\r\n\ @param\ p_persona\ Persona\ que\ sera\ el\ titular\ de\ la\ cuenta\r\n\ @return\ CuentaBancaria\ creada\ con\ los\ datos\ ingresados\r\n
+numComments=4

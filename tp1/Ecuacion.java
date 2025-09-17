@@ -2,15 +2,9 @@
 /**
  * Write a description of class Ecuacion here.
  * 
- * @author (your name) 
+ * @author (Torres Jemina Cesia - Reyes Kevin Josue) 
  * @version (a version number or a date)
- * 
- * Crear una clase denominada “Ecuación” que calcule las raíces reales de una ecuación de segundo grado. Los
-valores de los coeficientes a, b y c se ingresarán por teclado como argumentos del método main(). Considerar
-que si el discriminante > 0 se deben calcular las 2 raíces, si el discriminante = 0 se debe calcular una sola raíz,
-especificando por pantalla que x1 = x2. En caso de ser negativo, mostrar un mensaje indicando que se
-encuentra frente a una solución compleja (numero imaginario).
-Nota: probar con a= -1; b=500; c=-62500;
+ *
  */
 public class Ecuacion
 {

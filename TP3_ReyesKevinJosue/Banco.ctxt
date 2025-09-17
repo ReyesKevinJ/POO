@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Banco
+comment0.text=\r\n\ Clase\ ejecutable\ Banco\ que\ que\ permite\ crear\ cajas\ de\ ahorro\ y\ cuentas\ \r\n\ corrientes.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p_lector
+comment2.target=Persona\ crearPersona(java.util.Scanner)
+comment2.text=\r\n\ Crea\ una\ persona\ solicitando\ datos\ por\ teclado.\r\n\ \r\n\ @param\ p_lector\ objeto\ Scanner\ para\ leer\ datos\r\n\ @return\ una\ nueva\ instancia\ de\ Persona\r\n
+comment3.params=p_lector\ p_persona\ p_numCuenta
+comment3.target=CajaDeAhorro\ crearCajaAhorro(java.util.Scanner,\ Persona,\ java.util.Random)
+comment3.text=\r\n\ Crea\ una\ caja\ de\ ahorro\ asociada\ a\ un\ titular,\r\n\ con\ n\u00FAmero\ de\ cuenta\ aleatorio\ y\ opcionalmente\ un\ dep\u00F3sito\ inicial.\r\n\ \r\n\ @param\ p_lector\ objeto\ Scanner\ para\ leer\ datos\r\n\ @param\ p_persona\ titular\ de\ la\ cuenta\r\n\ @param\ p_numCuenta\ generador\ aleatorio\ para\ el\ numero\ de\ cuenta\r\n\ @return\ una\ nueva\ instancia\ de\ CajaDeAhorro\r\n
+comment4.params=p_lector\ p_persona\ p_numCuenta
+comment4.target=CuentaCorriente\ crearCuentaCorriente(java.util.Scanner,\ Persona,\ java.util.Random)
+comment4.text=\r\n\ Crea\ una\ cuenta\ corriente\ asociada\ a\ un\ titular,\r\n\ con\ numero\ de\ cuenta\ aleatorio\ y\ opcionalmente\ un\ deposito\ inicial.\r\n\ \r\n\ @param\ p_lector\ objeto\ Scanner\ para\ leer\ datos\r\n\ @param\ p_persona\ titular\ de\ la\ cuenta\r\n\ @param\ p_numCuenta\ generador\ aleatorio\ para\ el\ numero\ de\ cuenta\r\n\ @return\ una\ nueva\ instancia\ de\ CuentaCorriente\r\n
+comment5.params=p_persona
+comment5.target=void\ enviarFelicitacionCumplea\u00F1os(Persona)
+comment5.text=\r\n\ Envia\ un\ mensaje\ de\ felicitaci\u00F3n\ si\ hoy\ es\ el\ cumplea\u00F1os\ de\ la\ persona.\r\n\ \r\n\ @param\ p_persona\ persona\ a\ verificar\r\n
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Empresa
+comment0.text=\r\n\ La\ clase\ Empresa\ permite\ crear\ instancias\ de\ Empleado\r\n\ a\ partir\ de\ datos\ ingresados\ por\ teclado,\ mostrar\ su\ informaci\u00F3n\ y\ verificar\r\n\ si\ corresponde\ el\ dia\ de\ aniversario\ de\ ingreso.\r\n\ \r\n\ @author\ Torres\ Jemina\ Cesia\r\n\ @author\ Reyes\ Kevin\ Josue\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p_lector
+comment2.target=Empleado\ crearEmpleado(java.util.Scanner)
+comment2.text=\r\n\ Crea\ un\ empleado\ con\ datos\ ingresados\ por\ teclado.\r\n\ \r\n\ @return\ un\ objeto\ de\ tipo\ Empleado\r\n
+comment3.params=p_empleado
+comment3.target=void\ emitirPermisoSalida(Empleado)
+numComments=4

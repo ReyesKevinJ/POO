@@ -1,11 +1,11 @@
-
+import java.util.Scanner;
 /**
  * Write a description of class Circunferencia2 here.
  * 
- * @author (your name) 
+ * @author (Torres Jemina Cesia - Reyes Kevin Josue) 
  * @version (a version number or a date)
  */
-import java.util.Scanner;
+
 public class Circunferencia2
 {
     public static void main(String args []){  
