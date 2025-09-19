@@ -46,7 +46,9 @@ public class Curso
     }
     
     public Alumno quitarAlumno(int p_lu){
-        return (Alumno)this.getAlumnos().get(new Integer(p_lu));
+        Alumno alumno= (Alumno)this.getAlumnos().get(new Integer(p_lu));
+        this.getAlumnos().remove(new Integer(p_lu));
+        return alumno;
     }
     
     //metodos propios

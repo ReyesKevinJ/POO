@@ -9,7 +9,6 @@ public class AplicacionBanco
 {
      public static void main(String args[]) {
         Scanner lector = new Scanner(System.in);
-        lector.nextLine();
         // Crear Localidad y primer Empleado
         Localidad localidad1 = crearLocalidad(lector);
         Empleado empleado1 = crearEmpleado(lector);
@@ -95,7 +94,6 @@ public class AplicacionBanco
     }
 
     public static Localidad crearLocalidad(Scanner p_lector) {
-        p_lector.nextLine(); 
         System.out.println("\n- Datos de Localidad -");
         System.out.print("Localidad de: ");
         String nombre = p_lector.nextLine();
